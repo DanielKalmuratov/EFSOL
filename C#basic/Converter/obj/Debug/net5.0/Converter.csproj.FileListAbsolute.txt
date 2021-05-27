@@ -1,0 +1,15 @@
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\Converter.exe
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\Converter.deps.json
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\Converter.runtimeconfig.json
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\Converter.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\Converter.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\ref\Converter.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\bin\Debug\net5.0\Converter.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\ref\Converter.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Converter\obj\Debug\net5.0\Converter.genruntimeconfig.cache

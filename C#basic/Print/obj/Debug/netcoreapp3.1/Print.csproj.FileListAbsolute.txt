@@ -1,0 +1,13 @@
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\bin\Debug\netcoreapp3.1\Print.exe
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\bin\Debug\netcoreapp3.1\Print.deps.json
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\bin\Debug\netcoreapp3.1\Print.runtimeconfig.json
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\bin\Debug\netcoreapp3.1\Print.runtimeconfig.dev.json
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\bin\Debug\netcoreapp3.1\Print.dll
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\bin\Debug\netcoreapp3.1\Print.pdb
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.csprojAssemblyReference.cache
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.AssemblyInfoInputs.cache
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.AssemblyInfo.cs
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.csproj.CoreCompileInputs.cache
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.dll
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.pdb
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Print\obj\Debug\netcoreapp3.1\Print.genruntimeconfig.cache

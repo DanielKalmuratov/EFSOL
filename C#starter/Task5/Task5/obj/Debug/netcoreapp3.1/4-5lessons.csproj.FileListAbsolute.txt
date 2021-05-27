@@ -1,0 +1,13 @@
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\bin\Debug\netcoreapp3.1\4-5lessons.exe
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\bin\Debug\netcoreapp3.1\4-5lessons.deps.json
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\bin\Debug\netcoreapp3.1\4-5lessons.runtimeconfig.json
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\bin\Debug\netcoreapp3.1\4-5lessons.runtimeconfig.dev.json
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\bin\Debug\netcoreapp3.1\4-5lessons.dll
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\bin\Debug\netcoreapp3.1\4-5lessons.pdb
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.csprojAssemblyReference.cache
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.AssemblyInfoInputs.cache
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.AssemblyInfo.cs
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.csproj.CoreCompileInputs.cache
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.dll
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.pdb
+C:\Users\user1111\source\repos\4-5lessons\4-5lessons\obj\Debug\netcoreapp3.1\4-5lessons.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ClassRoom.exe
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ClassRoom.deps.json
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ClassRoom.runtimeconfig.json
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ClassRoom.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ClassRoom.dll
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ref\ClassRoom.dll
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\bin\Debug\net5.0\ClassRoom.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.dll
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ref\ClassRoom.dll
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\ClassRoom\obj\Debug\net5.0\ClassRoom.genruntimeconfig.cache

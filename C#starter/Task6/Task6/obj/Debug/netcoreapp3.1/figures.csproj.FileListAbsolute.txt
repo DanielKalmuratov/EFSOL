@@ -1,0 +1,13 @@
+C:\Users\user1111\source\repos\figures\figures\bin\Debug\netcoreapp3.1\figures.exe
+C:\Users\user1111\source\repos\figures\figures\bin\Debug\netcoreapp3.1\figures.deps.json
+C:\Users\user1111\source\repos\figures\figures\bin\Debug\netcoreapp3.1\figures.runtimeconfig.json
+C:\Users\user1111\source\repos\figures\figures\bin\Debug\netcoreapp3.1\figures.runtimeconfig.dev.json
+C:\Users\user1111\source\repos\figures\figures\bin\Debug\netcoreapp3.1\figures.dll
+C:\Users\user1111\source\repos\figures\figures\bin\Debug\netcoreapp3.1\figures.pdb
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.AssemblyInfoInputs.cache
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.AssemblyInfo.cs
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.csproj.CoreCompileInputs.cache
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.dll
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.pdb
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.genruntimeconfig.cache
+C:\Users\user1111\source\repos\figures\figures\obj\Debug\netcoreapp3.1\figures.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\Vehicle.exe
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.json
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\Vehicle.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Vehicle\obj\Debug\net5.0\Vehicle.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\Array.exe
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\Array.deps.json
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\Array.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\ref\Array.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Array\bin\Debug\net5.0\Array.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\ref\Array.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache

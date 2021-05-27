@@ -1,0 +1,13 @@
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csprojAssemblyReference.cache
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+C:\Users\kanik\OneDrive\Desktop\Efsol\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache

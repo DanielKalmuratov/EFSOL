@@ -1,0 +1,16 @@
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\Task7.exe
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\Task7.deps.json
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\Task7.runtimeconfig.json
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\Task7.runtimeconfig.dev.json
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\Task7.dll
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\ref\Task7.dll
+C:\Users\user1111\source\repos\Task7\task_7\bin\Debug\net5.0\Task7.pdb
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.csprojAssemblyReference.cache
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.AssemblyInfoInputs.cache
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.AssemblyInfo.cs
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.dll
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\ref\Task7.dll
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.pdb
+C:\Users\user1111\source\repos\Task7\task_7\obj\Debug\net5.0\Task7.genruntimeconfig.cache

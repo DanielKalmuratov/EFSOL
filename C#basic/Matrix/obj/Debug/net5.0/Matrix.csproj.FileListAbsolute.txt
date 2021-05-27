@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\Matrix.exe
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\Matrix.deps.json
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.json
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\Matrix.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\ref\Matrix.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\bin\Debug\net5.0\Matrix.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\ref\Matrix.dll
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.pdb
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.genruntimeconfig.cache
+E:\Doc&Desk\Desktop\efsol\Converter\Matrix\obj\Debug\net5.0\Matrix.csprojAssemblyReference.cache
