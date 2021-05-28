@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\MyList.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\MyList.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\MyList.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\MyList.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\MyList.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\ref\MyList.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\bin\Debug\net5.0\MyList.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\ref\MyList.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyList\obj\Debug\net5.0\MyList.genruntimeconfig.cache

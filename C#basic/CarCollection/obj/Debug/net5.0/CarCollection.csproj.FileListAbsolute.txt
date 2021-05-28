@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\CarCollection.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\CarCollection.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\CarCollection.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\CarCollection.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\CarCollection.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\ref\CarCollection.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\bin\Debug\net5.0\CarCollection.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\ref\CarCollection.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\CarCollection\obj\Debug\net5.0\CarCollection.genruntimeconfig.cache
