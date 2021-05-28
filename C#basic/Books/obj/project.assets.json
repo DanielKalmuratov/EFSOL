@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\kanik\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\CarCollection\\CarCollection.csproj",
-      "projectName": "CarCollection",
-      "projectPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\CarCollection\\CarCollection.csproj",
+      "projectUniqueName": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Books\\Books.csproj",
+      "projectName": "Books",
+      "projectPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Books\\Books.csproj",
       "packagesPath": "C:\\Users\\kanik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\CarCollection\\obj\\",
+      "outputPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Books\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kanik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
