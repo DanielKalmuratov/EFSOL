@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj": {}
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj": {
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj",
+        "projectUniqueName": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj",
         "projectName": "Timer",
-        "projectPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj",
-        "packagesPath": "C:\\Users\\kanik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\obj\\",
+        "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\Timer.csproj",
+        "packagesPath": "C:\\Users\\user1111\\.nuget\\packages\\",
+        "outputPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\Timer\\Timer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kanik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user1111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

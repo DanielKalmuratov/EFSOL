@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\kanik\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kanik\\.nuget\\packages"
+      "C:\\Users\\user1111\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\user1111\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
