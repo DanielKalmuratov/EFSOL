@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\MatrixFallString.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\MatrixFallString.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\MatrixFallString.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\MatrixFallString.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\MatrixFallString.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\ref\MatrixFallString.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\bin\Debug\net5.0\MatrixFallString.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\ref\MatrixFallString.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MatrixFallString\MatrixFallString\obj\Debug\net5.0\MatrixFallString.genruntimeconfig.cache
