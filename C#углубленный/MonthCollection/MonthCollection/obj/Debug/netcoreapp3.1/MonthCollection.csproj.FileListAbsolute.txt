@@ -1,0 +1,13 @@
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\bin\Debug\netcoreapp3.1\MonthCollection.exe
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\bin\Debug\netcoreapp3.1\MonthCollection.deps.json
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\bin\Debug\netcoreapp3.1\MonthCollection.runtimeconfig.json
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\bin\Debug\netcoreapp3.1\MonthCollection.runtimeconfig.dev.json
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\bin\Debug\netcoreapp3.1\MonthCollection.dll
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\bin\Debug\netcoreapp3.1\MonthCollection.pdb
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.csproj.AssemblyReference.cache
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.AssemblyInfoInputs.cache
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.AssemblyInfo.cs
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.csproj.CoreCompileInputs.cache
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.dll
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.pdb
+C:\Users\Belek\Desktop\EFSOL\C#углубленный\MonthCollection\MonthCollection\obj\Debug\netcoreapp3.1\MonthCollection.genruntimeconfig.cache
