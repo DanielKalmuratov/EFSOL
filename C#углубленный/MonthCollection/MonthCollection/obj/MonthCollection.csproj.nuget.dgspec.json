@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Belek\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj": {}
+    "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Belek\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj": {
+    "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Belek\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj",
+        "projectUniqueName": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj",
         "projectName": "MonthCollection",
-        "projectPath": "C:\\Users\\Belek\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj",
-        "packagesPath": "C:\\Users\\Belek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Belek\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\obj\\",
+        "projectPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\MonthCollection.csproj",
+        "packagesPath": "C:\\Users\\kanik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#углубленный\\MonthCollection\\MonthCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Belek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kanik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

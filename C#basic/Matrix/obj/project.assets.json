@@ -8,26 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user1111\\.nuget\\packages\\": {}
+    "C:\\Users\\kanik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Doc&Desk\\Desktop\\efsol\\Converter\\Matrix\\Matrix.csproj",
+      "projectUniqueName": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Matrix\\Matrix.csproj",
       "projectName": "Matrix",
-      "projectPath": "E:\\Doc&Desk\\Desktop\\efsol\\Converter\\Matrix\\Matrix.csproj",
-      "packagesPath": "C:\\Users\\user1111\\.nuget\\packages\\",
-      "outputPath": "E:\\Doc&Desk\\Desktop\\efsol\\Converter\\Matrix\\obj\\",
+      "projectPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Matrix\\Matrix.csproj",
+      "packagesPath": "C:\\Users\\kanik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user1111\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\kanik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

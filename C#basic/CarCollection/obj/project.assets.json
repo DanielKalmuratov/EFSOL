@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Belek\\.nuget\\packages\\": {}
+    "C:\\Users\\kanik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Belek\\Desktop\\EFSOL\\C#basic\\CarCollection\\CarCollection.csproj",
+      "projectUniqueName": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\CarCollection\\CarCollection.csproj",
       "projectName": "CarCollection",
-      "projectPath": "C:\\Users\\Belek\\Desktop\\EFSOL\\C#basic\\CarCollection\\CarCollection.csproj",
-      "packagesPath": "C:\\Users\\Belek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Belek\\Desktop\\EFSOL\\C#basic\\CarCollection\\obj\\",
+      "projectPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\CarCollection\\CarCollection.csproj",
+      "packagesPath": "C:\\Users\\kanik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kanik\\OneDrive\\Desktop\\EFSOL\\C#basic\\CarCollection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Belek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kanik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
