@@ -1,17 +1,18 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace MyDictionary
 {
     class Program
     {
-        class MyDictionary<TKey, TValue> {
+        class MyDictionary<TKey, TValue> : IEnumerator, IEnumerable
+        {
             List<TKey> tkey;
             List<TValue> tvalue;
             private int counter = 0;
-            private int current = 0; 
-            
-            public int Counter
+          
+            public int Count
             {
                 get { return this.counter; }
             }
@@ -36,6 +37,32 @@ namespace MyDictionary
                 return -1;
             }
 
+            int position = -1;
+
+            bool IEnumerator.MoveNext()
+            {
+                if (position < tvalue.Count - 1)
+                {
+                    position++;
+                    return true;
+                }
+                ((IEnumerator)this).Reset();
+                return false;
+            }
+            void IEnumerator.Reset()
+            {
+                position = -1;
+            }
+            object IEnumerator.Current
+            {
+                get { return tvalue[position]; }
+            }
+
+            IEnumerator IEnumerable.GetEnumerator()
+            {
+                return (IEnumerator)this;
+            }
+
             public void Add(TKey key, TValue value)
             {
                 tkey.Add(key);
@@ -50,9 +77,17 @@ namespace MyDictionary
         {
             MyDictionary<int, string> dictionary = new MyDictionary<int, string>();
             dictionary.Add(1, "Book");
-            Console.WriteLine(dictionary[1]);
+            dictionary.Add(2, "student");
+            dictionary.Add(3, "food");
+            dictionary.Add(4, "water");
+
+            foreach (var item in dictionary) {
+                Console.WriteLine($"{item}");
+            }
+            
+
             Console.ReadKey();
-            Dictionary<int, string> dfd = new Dictionary<int, string>();
+            
         }
     }
 }
