@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\FileReadWrite.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\FileReadWrite.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\FileReadWrite.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\FileReadWrite.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\FileReadWrite.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\ref\FileReadWrite.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\bin\Debug\net5.0\FileReadWrite.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\ref\FileReadWrite.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\obj\Debug\net5.0\FileReadWrite.genruntimeconfig.cache

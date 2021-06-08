@@ -44,6 +44,7 @@ namespace Compare
             catch (Exception err)
             {
                 Console.WriteLine(err.Message);
+                Console.Write("Ошибка одинаковых ключей");
             }
 
             foreach (DictionaryEntry item in cars)
