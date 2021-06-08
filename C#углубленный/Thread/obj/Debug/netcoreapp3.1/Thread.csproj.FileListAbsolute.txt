@@ -11,3 +11,16 @@ C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.dll
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.pdb
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.genruntimeconfig.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\bin\Debug\netcoreapp3.1\Thread.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\bin\Debug\netcoreapp3.1\Thread.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\bin\Debug\netcoreapp3.1\Thread.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\bin\Debug\netcoreapp3.1\Thread.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\bin\Debug\netcoreapp3.1\Thread.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\bin\Debug\netcoreapp3.1\Thread.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Thread\obj\Debug\netcoreapp3.1\Thread.genruntimeconfig.cache

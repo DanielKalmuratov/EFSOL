@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\Compare.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\Compare.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\Compare.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\Compare.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\Compare.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\ref\Compare.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\bin\Debug\net5.0\Compare.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\ref\Compare.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Compare\obj\Debug\net5.0\Compare.genruntimeconfig.cache
