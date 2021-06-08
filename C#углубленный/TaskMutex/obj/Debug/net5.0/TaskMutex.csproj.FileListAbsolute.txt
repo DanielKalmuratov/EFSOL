@@ -1,0 +1,15 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\TaskMutex.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\TaskMutex.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\TaskMutex.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\TaskMutex.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\TaskMutex.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\ref\TaskMutex.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\bin\Debug\net5.0\TaskMutex.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\ref\TaskMutex.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\TaskMutex\obj\Debug\net5.0\TaskMutex.genruntimeconfig.cache
