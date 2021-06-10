@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\usingLesson\\usingLesson.csproj": {}
+  },
+  "projects": {
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\MyDictionary\\MyDictionary\\MyDictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\MyDictionary\\MyDictionary\\MyDictionary.csproj",
+        "projectName": "MyDictionary",
+        "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\MyDictionary\\MyDictionary\\MyDictionary.csproj",
+        "packagesPath": "C:\\Users\\user1111\\.nuget\\packages\\",
+        "outputPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\MyDictionary\\MyDictionary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\usingLesson\\usingLesson.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\usingLesson\\usingLesson.csproj",
+        "projectName": "usingLesson",
+        "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\usingLesson\\usingLesson.csproj",
+        "packagesPath": "C:\\Users\\user1111\\.nuget\\packages\\",
+        "outputPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\usingLesson\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\MyDictionary\\MyDictionary\\MyDictionary.csproj": {
+                "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#basic\\MyDictionary\\MyDictionary\\MyDictionary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

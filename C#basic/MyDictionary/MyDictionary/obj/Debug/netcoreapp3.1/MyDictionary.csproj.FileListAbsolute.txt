@@ -11,3 +11,16 @@ C:\Users\kanik\OneDrive\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debu
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
