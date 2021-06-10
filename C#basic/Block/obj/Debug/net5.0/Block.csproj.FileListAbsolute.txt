@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\Block.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\Block.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\Block.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\Block.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\Block.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\ref\Block.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\bin\Debug\net5.0\Block.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\ref\Block.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\Block\obj\Debug\net5.0\Block.genruntimeconfig.cache
