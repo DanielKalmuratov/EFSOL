@@ -1,0 +1,13 @@
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\bin\Debug\netcoreapp3.1\StructWorker.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\bin\Debug\netcoreapp3.1\StructWorker.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\bin\Debug\netcoreapp3.1\StructWorker.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\bin\Debug\netcoreapp3.1\StructWorker.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\bin\Debug\netcoreapp3.1\StructWorker.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\bin\Debug\netcoreapp3.1\StructWorker.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\StructWorker\obj\Debug\netcoreapp3.1\StructWorker.genruntimeconfig.cache
