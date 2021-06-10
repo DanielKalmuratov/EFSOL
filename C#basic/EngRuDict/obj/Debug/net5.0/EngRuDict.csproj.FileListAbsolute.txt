@@ -1,0 +1,15 @@
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\EngRuDict.exe
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\EngRuDict.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\EngRuDict.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\EngRuDict.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\EngRuDict.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\ref\EngRuDict.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\bin\Debug\net5.0\EngRuDict.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\ref\EngRuDict.dll
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#basic\EngRuDict\obj\Debug\net5.0\EngRuDict.genruntimeconfig.cache
