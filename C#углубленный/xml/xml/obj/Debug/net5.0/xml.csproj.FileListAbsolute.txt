@@ -1,0 +1,15 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\xml.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\xml.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\xml.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\xml.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\xml.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\ref\xml.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\bin\Debug\net5.0\xml.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\ref\xml.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\xml\xml\obj\Debug\net5.0\xml.genruntimeconfig.cache
