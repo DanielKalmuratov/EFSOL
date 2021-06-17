@@ -1,0 +1,15 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\Temprerature.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\Temprerature.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\Temprerature.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\Temprerature.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\Temprerature.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\ref\Temprerature.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\bin\Debug\net5.0\Temprerature.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\ref\Temprerature.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\FileReadWrite\Temprerature\obj\Debug\net5.0\Temprerature.genruntimeconfig.cache

@@ -11,3 +11,16 @@ C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\AsyncProgram\Asyn
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.dll
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.pdb
 C:\Users\kanik\OneDrive\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.genruntimeconfig.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\bin\Debug\netcoreapp3.1\AsyncProgram.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\bin\Debug\netcoreapp3.1\AsyncProgram.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\bin\Debug\netcoreapp3.1\AsyncProgram.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\bin\Debug\netcoreapp3.1\AsyncProgram.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\bin\Debug\netcoreapp3.1\AsyncProgram.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\bin\Debug\netcoreapp3.1\AsyncProgram.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\AsyncProgram\AsyncProgram\obj\Debug\netcoreapp3.1\AsyncProgram.genruntimeconfig.cache

@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Temprerature/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Temprerature.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Temprerature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temprerature/1.0.0": {
+      "type": "project",
+      "path": "../FileReadWrite/Temprerature/Temprerature.csproj",
+      "msbuildProject": "../FileReadWrite/Temprerature/Temprerature.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Temprerature >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user1111\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\AssembTask.csproj",
+      "projectName": "AssembTask",
+      "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\AssembTask.csproj",
+      "packagesPath": "C:\\Users\\user1111\\.nuget\\packages\\",
+      "outputPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user1111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\FileReadWrite\\Temprerature\\Temprerature.csproj": {
+              "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\FileReadWrite\\Temprerature\\Temprerature.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

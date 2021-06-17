@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssembTask/1.0.0": {
+        "dependencies": {
+          "Temprerature": "1.0.0"
+        },
+        "runtime": {
+          "AssembTask.dll": {}
+        }
+      },
+      "Temprerature/1.0.0": {
+        "runtime": {
+          "Temprerature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssembTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Temprerature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
