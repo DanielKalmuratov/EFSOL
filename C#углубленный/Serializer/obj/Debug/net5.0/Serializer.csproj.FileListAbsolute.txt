@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\Serializer.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\Serializer.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\Serializer.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\Serializer.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\Serializer.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\bin\Debug\net5.0\Serializer.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\Serializer\obj\Debug\net5.0\Serializer.genruntimeconfig.cache

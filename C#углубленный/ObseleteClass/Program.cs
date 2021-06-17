@@ -13,7 +13,7 @@ namespace ObseleteClass
         [Obsolete("Метод не используеться", true)]
         public void SecondMethod()
         {
-            Console.WriteLine("Устаревший не используемый!");
+            Console.WriteLine("Устаревший не используемый метод!");
         }
 
     }
@@ -23,7 +23,7 @@ namespace ObseleteClass
         {
             ObselClass instance = new ObselClass();
             instance.FirstMethod();
-            instance.SecondMethod();
+            //instance.SecondMethod(); Выдает ошибку
         }
     }
 }
