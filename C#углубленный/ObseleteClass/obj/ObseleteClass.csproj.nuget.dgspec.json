@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\AssembTask.csproj": {}
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\ObseleteClass\\ObseleteClass.csproj": {}
   },
   "projects": {
-    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\AssembTask.csproj": {
+    "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\ObseleteClass\\ObseleteClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\AssembTask.csproj",
-        "projectName": "AssembTask",
-        "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\AssembTask.csproj",
+        "projectUniqueName": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\ObseleteClass\\ObseleteClass.csproj",
+        "projectName": "ObseleteClass",
+        "projectPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\ObseleteClass\\ObseleteClass.csproj",
         "packagesPath": "C:\\Users\\user1111\\.nuget\\packages\\",
-        "outputPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\AssembTask\\obj\\",
+        "outputPath": "E:\\Doc&Desk\\Desktop\\EFSOL\\C#углубленный\\ObseleteClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1111\\AppData\\Roaming\\NuGet\\NuGet.Config",
