@@ -1,0 +1,16 @@
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\GCLook.exe
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\GCLook.deps.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\GCLook.runtimeconfig.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\GCLook.runtimeconfig.dev.json
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\GCLook.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\ref\GCLook.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\bin\Debug\net5.0\GCLook.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.AssemblyInfoInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.AssemblyInfo.cs
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\ref\GCLook.dll
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.pdb
+E:\Doc&Desk\Desktop\EFSOL\C#углубленный\GCLook\obj\Debug\net5.0\GCLook.genruntimeconfig.cache
