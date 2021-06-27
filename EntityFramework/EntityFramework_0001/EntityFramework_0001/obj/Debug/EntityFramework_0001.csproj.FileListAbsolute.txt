@@ -1,0 +1,13 @@
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework_0001.exe.config
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework_0001.exe
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework_0001.pdb
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework.dll
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework.SqlServer.dll
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework.xml
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\EntityFramework.SqlServer.xml
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\bin\Debug\ru\EntityFramework.resources.dll
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\obj\Debug\EntityFramework_0001.csprojAssemblyReference.cache
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\obj\Debug\EntityFramework_0001.csproj.CoreCompileInputs.cache
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\obj\Debug\EntityFramework_0001.csproj.CopyComplete
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\obj\Debug\EntityFramework_0001.exe
+E:\Doc&Desk\Desktop\EFSOL\EntityFramework\EntityFramework_0001\EntityFramework_0001\obj\Debug\EntityFramework_0001.pdb
